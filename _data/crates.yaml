@@ -308,6 +308,7 @@
   topics: ["neural-networks", "bindings"]
 
 - name: tvm
+  repository: https://github.com/apache/tvm/tree/main/rust
   topics: ["neural-networks", "bindings"]
 
 - name: utah
